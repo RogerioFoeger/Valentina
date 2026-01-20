@@ -49,7 +49,7 @@ export default function Home() {
       id: 3,
       label: "💬 Fale comigo",
       sublabel: "Acesso rápido",
-      url: "wa.me/5527996216491", // WhatsApp
+      url: "https://wa.me/5527996216491", // WhatsApp
       icon: <MessageCircle className="w-6 h-6" />,
       primary: false,
       style: "bg-[#25d366] text-white hover:bg-[#20b858] shadow-md"

@@ -3,10 +3,10 @@ import { motion } from "framer-motion";
 import { ArrowRight, Globe, MessageCircle, Send } from "lucide-react";
 
 export default function Home() {
-  // Dados oficiais - Valentina Aura World
-  const modelName = "Valentina Aura World";
-  const headline = "Entre no meu mundo 🌍✈️";
-  const subheadline = "Viagens, lifestyle, bastidores e acessos exclusivos. Escolha como você quer chegar mais perto.";
+// Dados oficiais - Valentina Aura World
+  const modelName = "Valentina Aura";
+  const headline = "Meu Lado Secreto & Sem Censura 🔞";
+  const subheadline = "Cansou do básico do Instagram? Aqui é onde eu mostro tudo, compartilho meus vídeos caseiros e realizo suas fantasias.";
   
  const links = [
 
@@ -138,18 +138,18 @@ export default function Home() {
             <h3 className="text-sm font-bold uppercase tracking-wider mb-4 text-white/90 border-b border-white/20 pb-2">
               No meu mundo você encontra:
             </h3>
-            <ul className="space-y-3 text-sm md:text-base font-light">
+<ul className="space-y-3 text-sm md:text-base font-light">
               <li className="flex items-center gap-3">
-                <span className="text-lg">✈️</span> Lifestyle & viagens
+                <span className="text-lg">🔥</span> Conteúdo explícito (+18)
               </li>
               <li className="flex items-center gap-3">
-                <span className="text-lg">👗</span> Moda e momentos reais
+                <span className="text-lg">😈</span> Vídeos caseiros e sem tarjas
               </li>
               <li className="flex items-center gap-3">
-                <span className="text-lg">🔥</span> Bastidores e conteúdos exclusivos
+                <span className="text-lg">👄</span> Histórias picantes e reais
               </li>
               <li className="flex items-center gap-3">
-                <span className="text-lg">🌍</span> Acessos que não aparecem no Instagram
+                <span className="text-lg">🔞</span> Acesso total à minha intimidade
               </li>
             </ul>
           </motion.div>

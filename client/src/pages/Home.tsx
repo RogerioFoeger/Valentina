@@ -46,11 +46,11 @@ export default function Home() {
         
         {/* Background Image - Fixed & Cover */}
         <div className="absolute inset-0 z-0">
-          <img 
-            src="/images/hero_real_edited.png" 
-            alt="Valentina Aura" 
-            className="w-full h-full object-cover object-top opacity-95"
-          />
+<img
+  src="/images/hero_real.jpg"
+  alt="Valentina Aura"
+  className="w-full h-full object-cover object-top opacity-95"
+/>
           {/* Subtle overlay for text readability */}
           <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-transparent to-black/60" />
         </div>

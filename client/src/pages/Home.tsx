@@ -16,7 +16,7 @@ export default function Home() {
 
       label: "🇧🇷 Grupo Telegram – Brasil",
 
-      sublabel: "Prévias • Conteúdos • Avisos (GRÁTIS)",
+      sublabel: "Prévias proibidas • Áudios • (GRÁTIS)",
 
       url: "https://t.me/valentinaaura1", // Telegram
 

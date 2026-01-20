@@ -8,20 +8,42 @@ export default function Home() {
   const headline = "Entre no meu mundo 🌍✈️";
   const subheadline = "Viagens, lifestyle, bastidores e acessos exclusivos. Escolha como você quer chegar mais perto.";
   
-  const links = [
-{
-      id: 1,
-      label: "🌍 Exclusive World (EN)",
-      // ...
-      url: "https://www.fanvue.com/valentinaauraworld",
-      // ...
-    },
+ const links = [
+
     {
-      id: 2,
+
+      id: 1,
+
       label: "🇧🇷 Grupo Telegram – Brasil",
-      // ...
-      url: "https://t.me/valentinaaura1",
-      // ...
+
+      sublabel: "Prévias • Conteúdos • Avisos (GRÁTIS)",
+
+      url: "https://t.me/valentinaaura1", // Telegram
+
+      icon: <Send className="w-6 h-6" />,
+
+      primary: false,
+
+      style: "bg-[#2ca5e0] text-white hover:bg-[#2589ba] shadow-md"
+
+    },
+
+    {
+
+      id: 2,
+
+         label: "🌍 Exclusive World (EN)",
+
+      sublabel: "Premium content • International access",
+
+      url: "https://www.fanvue.com/valentinaauraworld", // Fanvue
+
+      icon: <Globe className="w-6 h-6" />,
+
+      primary: true,
+
+      style: "bg-[#548db0] text-white hover:bg-[#437290] shadow-lg shadow-[#548db0]/30"
+
     },
     {
       id: 3,

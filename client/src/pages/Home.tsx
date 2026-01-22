@@ -161,7 +161,7 @@ export default function Home() {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="text-white/70 text-xs font-medium tracking-wide pt-4"
           >
-            +100.000 pessoas já acompanham meu mundo 🌍
+            +1.000 pessoas já acompanham meu mundo 🌍
           </motion.div>
 
         </div>
